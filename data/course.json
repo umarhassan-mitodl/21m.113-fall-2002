@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Music",
+      "Music Theory"
+    ],
+    [
+      "Fine Arts",
+      "Music",
+      "Music Performance"
+    ]
+  ],
+  "legacy_uid": "bd7fb5da-067d-274b-f9b6-469ba493f3dc",
+  "instructors": {
+    "content": [
+      "b1a595c1-b097-8f53-cf56-7714f82fdc47"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d68ef96e-6b88-0a85-5278-ba42dc3dec5c",
+    "website": "21m-113-developing-musical-structures-fall-2002"
+  },
+  "course_title": "Developing Musical Structures",
+  "course_description": "The goal of this class is practical:\u00a0to interrogate, make explicit, and thus\u00a0to develop the powerful musical intuitions that are at work as you make sense of the music all around you.\u00a0Reflecting, we will ask how this knowledge develops in ordinary and extraordinary ways.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.113",
+  "course_image_thumbnail": {
+    "content": "272b1d68-bffa-8c16-15ae-eb4879eae8e0",
+    "website": "21m-113-developing-musical-structures-fall-2002"
+  },
+  "learning_resource_types": [
+    "Activity Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "c9d39798-9b1d-4d7e-9ebe-3c88ae75bcef",
+  "site_short_id": "21m.113-fall-2002",
+  "site_url_path": "courses/21m-113-developing-musical-structures-fall-2002",
+  "title": "Course Metadata"
+}
